@@ -48,7 +48,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/AmaralZando"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/AmaralZando" /></a></p><br><br>
+><br>
  
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
